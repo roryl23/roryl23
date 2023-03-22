@@ -7,4 +7,4 @@ I'm a software generalist with a varied skillset and interests, some of which in
 - Numerical computation
 - Applied software engineering
 
-Currently working on an open source security camera system: https://github.com/rory-linehan/osss
+Currently working on an open source security camera system, with instructions to build from start to finish.
