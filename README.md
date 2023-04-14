@@ -5,7 +5,6 @@ I'm a software generalist with a varied skillset and interests, some of which in
 - Distributed systems
 - Reliability engineering
 - Numerical computation
-- Applied software engineering
 
 Fluent in:
 
