@@ -11,5 +11,3 @@ Fluent in:
 - Python
 - Julia
 - Golang
-
-Currently working on an open source security camera system, with instructions to build from start to finish.
