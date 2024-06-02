@@ -11,3 +11,8 @@ Fluent in:
 - Python
 - Julia
 - Golang
+
+Dabble in:
+
+- C/C++
+- C#
