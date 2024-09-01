@@ -6,4 +6,4 @@ I'm a software generalist with a varied skillset and interests, some of which in
 - Reliability and performance engineering
 - Numerical computation and data analysis
 
-Fluent in Python, Julia, Golang. I dabble in Zig, and occasionally the Cs.
+Fluent in Python, Julia, Golang. I occasionally dabble in the Cs.
