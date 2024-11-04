@@ -5,5 +5,6 @@ I'm a software generalist with a varied skillset and interests, some of which in
 - Distributed systems
 - Reliability and performance engineering
 - Numerical computation and data analysis
+- Machine learning
 
 Fluent in Python, Julia, Golang. I occasionally dabble in the Cs.
