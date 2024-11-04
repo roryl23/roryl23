@@ -7,4 +7,4 @@ I'm a software generalist with a varied skillset and interests, some of which in
 - Numerical computation and data analysis
 - Machine learning
 
-Fluent in Python, Julia, Golang. I occasionally dabble in the Cs.
+Fluent in Python, Julia, Golang.
