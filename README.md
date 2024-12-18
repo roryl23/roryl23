@@ -1,5 +1,3 @@
-### Welcome!
-
 I'm a software generalist with a varied skillset and interests, some of which include:
 
 - Distributed systems
