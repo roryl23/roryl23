@@ -5,4 +5,4 @@ I'm a software generalist with a varied skillset and interests, some of which in
 - Embedded systems
 - Game development
 
-Fluent in Golang, Julia, and Python. I dabble in Lua, and the C's when I must
+Fluent in Golang, Julia, and Python, with some dabbling in C.
